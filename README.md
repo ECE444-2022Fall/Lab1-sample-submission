@@ -17,3 +17,5 @@ Activity 4
 [Screenshot of the commit you made to your teammate's repo]
 [Screenshot of the commit your teammate made to your repo]
 
+Activity 5
+[Screenshots of the commands that you used to rebase  along with their outpus]
