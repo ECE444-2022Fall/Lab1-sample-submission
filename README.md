@@ -3,7 +3,10 @@ An example of what the readme file of your lab1 submission should look like.
 This is just an example to demonstrate how your submission will look like, not all activities are implemented here in this repo.
 To protect your privacy, please feel free to remove sensitive personal information from your screenshots.
 
+## What your submission should look like:
+
 [Your Name]
+
 
 Activity 1
 ![](images/Activity1.png)
@@ -32,3 +35,10 @@ Activity 7
 Activity 8
 ![](images/Activity8.png)
 [Screenshot of your rebase command]
+
+
+## Tips
+
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+To inser images in markdown files on GitHub: just include the images in the repo, and then refer to them with either relative path or absolute path
