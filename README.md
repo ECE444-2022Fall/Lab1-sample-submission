@@ -8,3 +8,12 @@ Activity 1
 
 Activity 2
 ![](images/Activity2.png)
+
+Activity 3
+![](images/Activity3.png)
+
+Activity 4
+[Link to your teammate's repo]
+[Screenshot of the commit you made to your teammate's repo]
+[Screenshot of the commit your teammate made to your repo]
+
