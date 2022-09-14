@@ -1,6 +1,8 @@
 # Lab1-sample-submission
 An example of what the readme file of your lab1 submission should look like.
-This is just an example to demonstrate how your submission will look like, not all activities are implemented here in this repo.
+
+This is just an example to demonstrate how your submission will look like, NOT all activities are implemented here in this repo.
+
 To protect your privacy, please feel free to remove sensitive personal information from your screenshots.
 
 ## What your submission should look like:
